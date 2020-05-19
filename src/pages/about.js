@@ -5,7 +5,7 @@ import Header from "../components/header"
 export default function About() {
   return (
     <div style={{ color: `teal` }}>
-      <Link to="/">Home</Link>
+      <Link to="/Vulcan/">Home</Link>
       <Header headerText="This is about.js Header" />
       <p>Such wow. Very React.</p>
     </div>
